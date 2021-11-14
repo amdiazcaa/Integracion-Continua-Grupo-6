@@ -1,0 +1,6 @@
+{
+    "name": "tc-integracioncontinua",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "",
+    "workspaceFolder": ""
+}
